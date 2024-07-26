@@ -28,3 +28,6 @@ cd your-repository-directory
 TEST
 
 npm test
+
+![image](https://github.com/user-attachments/assets/cf156df9-d32e-4306-a74b-6551ea31c137)
+![Screenshot from 2024-07-26 15-12-21](https://github.com/user-attachments/assets/f3a98d8e-4da1-40ad-971b-69609792a62b)
